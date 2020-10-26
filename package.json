@@ -10,9 +10,9 @@
   "license": "ISC",
   "keywords": [
     "node-red",
-	"ocr",
-	"tesseract",
-	"text recognition"
+    "ocr",
+    "tesseract",
+    "text recognition"
   ],
   "homepage": "https://github.com/sjoerdvanderhoorn/node-red-contrib-tesseract",
   "node-red": {
@@ -26,7 +26,6 @@
 	"url" : "https://github.com/sjoerdvanderhoorn/node-red-contrib-tesseract.git"
   },
   "dependencies": {
-    "request": "^2.87.0",
-    "tesseract.js": "^1.0.10"
+    "tesseract.js": "^2.1.3"
   }
 }
